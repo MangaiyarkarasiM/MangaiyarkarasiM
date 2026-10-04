@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mangaiyarkarasi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p>A self motivated and independent person having knowledge in <b>MERN</b> Stack development with the curiosity to solve the problems using programming and technology.</p>
+<p>A self motivated and independent person having knowledge in React, Java with the curiosity to solve the problems using programming and technology.</p>
 
 <br/>
 
-- 🌱 I’m currently learning **Amazon Web Services**
-
 - 👨‍💻 All of my projects are available at [https://mangaiyarkarasi-m.netlify.app/projects](https://mangaiyarkarasi-m.netlify.app/projects)
 
-- 💬 Ask me about **React, Node, Express**
+- 💬 Ask me about **React, Java, Spring Boot**
 
 - 📫 How to reach me **mangaivmm@gmail.com**
 
